@@ -1,15 +1,12 @@
-html {
+html,body {
 
-    background:  url('body.jpg');
-    background-size: 100%;
-    height:auto;
-    background-position: center, center;
-    background-repeat: no-repeat;
+    
 
+    
 
-
+  
 }
-body {
-    background: rgb(123, 1, 237);
 
-}
+   
+
+
